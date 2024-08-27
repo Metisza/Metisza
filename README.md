@@ -24,13 +24,6 @@ Bem-vindo ao meu perfil do GitHub! Aqui você encontrará uma coleção dos meus
 
 ---
 
-### 📈 Contribuições Recentes
-
-![Metisza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Metisza&show_icons=true)
-
-
----
-
 Obrigado por visitar meu perfil! 🌟
 
 <div style="width: 200px;">
