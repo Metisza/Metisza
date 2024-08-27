@@ -26,7 +26,8 @@ Bem-vindo ao meu perfil do GitHub! Aqui você encontrará uma coleção dos meus
 
 ### 📈 Contribuições Recentes
 
-![Metisza's Contributions](https://activity-graph.herokuapp.com/graph?username=Metisza&theme=react-dark)
+![Metisza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Metisza&show_icons=true)
+
 
 ---
 
