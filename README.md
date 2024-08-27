@@ -1,4 +1,4 @@
-# Olá, Sou Metisza 👋
+# Olá, Sou a Bruna 👋
 
 Bem-vindo ao meu perfil do GitHub! Aqui você encontrará uma coleção dos meus projetos e contribuições para a comunidade de desenvolvimento. Sinta-se à vontade para explorar!
 
