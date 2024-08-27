@@ -27,7 +27,7 @@ Bem-vindo ao meu perfil do GitHub! Aqui você encontrará uma coleção dos meus
 Obrigado por visitar meu perfil! 🌟
 
 <div style="width: 200px;">
-<a href="https://github.com/Metisza/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Metisza&langs_count=8" alt="Top Langs" />
-</a>
+  <a href="https://github.com/Metisza/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Metisza&langs_count=8&theme=dark&card_width=400" alt="Top Langs" />
+  </a>
 </div>
