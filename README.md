@@ -1,6 +1,7 @@
 # Oi, eu sou a Bruna!
 
-![Esfarelamento](https://media.giphy.com/media/3ohs4C26kKfgsA9AU4/giphy.gif)
+![Profile](https://img.shields.io/badge/-Bruna-green?style=for-the-badge)
+![Welcome](https://img.shields.io/badge/-Bem%20vindo(a)-blue?style=for-the-badge)
 
 
 
