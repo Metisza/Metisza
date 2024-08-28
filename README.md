@@ -1,7 +1,8 @@
 # Oi, eu sou a Bruna!
 
-![Profile](https://img.shields.io/badge/-Bruna-green?style=for-the-badge)
-![Welcome](https://img.shields.io/badge/-Bem%20vindo(a)-blue?style=for-the-badge)
+<p align="center">
+  <img src="https://svgshare.com/i/_ND.svg" width="300"/>
+</p>
 
 
 
