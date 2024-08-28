@@ -1,8 +1,11 @@
-# Oi, eu sou a Bruna!
+<div align="center">
+  <h1>Oi, eu sou a Bruna!</h1>
+</div>
 
 <p align="center">
-  <img src="https://svgshare.com/i/_ND.svg" width="300"/>
+  <img src="https://github.com/Metisza/bruna-apresentacao/raw/main/assets/pulando.gif" alt="Texto Pulando" />
 </p>
+
 
 
 
