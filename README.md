@@ -32,3 +32,5 @@ Obrigado por visitar meu perfil! 🌟
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Metisza&langs_count=8&theme=dark&card_width=400" alt="Top Langs" />
   </a>
 </div>
+
+![Contribuições](https://raw.githubusercontent.com/Metisza/output/main/github-contribution-grid-snake.svg)
