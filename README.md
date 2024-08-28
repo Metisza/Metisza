@@ -1,5 +1,8 @@
 # Olá,sou a Bruna 👋🏻
 
+![Texto Animado](https://media.giphy.com/media/l3vRn3I4UyDoKyWLC/giphy.gif)
+
+
 
 Bem-vindo ao meu perfil do GitHub! Aqui você encontrará uma coleção dos meus projetos e contribuições para a comunidade de desenvolvimento. Sinta-se à vontade para explorar!
 
