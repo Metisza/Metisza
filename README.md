@@ -25,7 +25,7 @@
 
 ---
 
-Obrigado por visitar meu perfil! 🌟
+### Obrigado por visitar meu perfil! 🌟
 
 <div style="width: 200px;">
   <a href="https://github.com/Metisza/github-readme-stats">
