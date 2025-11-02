@@ -1,3 +1,8 @@
+<p align="left">
+  <img src="https://svg-banners.vercel.app/api?type=textBox&text1=🌸%20Olá,%20sou%20a%20Bruna%20👋🏻&width=800&height=150&fontSize=50&textColor=ff66b2&bgColor=ffffff" />
+</p>
+
+
 
 
 Bem-vindo ao meu perfil do GitHub! Aqui você encontrará uma coleção dos meus projetos e contribuições para a comunidade de desenvolvimento. Sinta-se à vontade para explorar!
