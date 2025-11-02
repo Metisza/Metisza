@@ -1,15 +1,3 @@
-<<<<<<< HEAD
-=======
-<p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=🌸%20Olá,%20sou%20a%20Bruna%20👋🏻&width=800&height=150&fontSize=50&textColor=ff66b2&bgColor=fde7f3" />
-</p>
-
-
-
-
-
-
->>>>>>> 883b7f4719b0b08a7a6e04ba8891e3303c0e464c
 
 
 Bem-vindo ao meu perfil do GitHub! Aqui você encontrará uma coleção dos meus projetos e contribuições para a comunidade de desenvolvimento. Sinta-se à vontade para explorar!
