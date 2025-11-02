@@ -5,23 +5,15 @@ Bem-vindo ao meu perfil do GitHub! Aqui você encontrará uma coleção dos meus
 
 ## 🚀 Linguagens e Tecnologias
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-ffd6e0?style=for-the-badge&logo=html5&logoColor=E34F26"/>
-  <img src="https://img.shields.io/badge/-CSS3-d4e2ff?style=for-the-badge&logo=css3&logoColor=1572B6"/>
-  <img src="https://img.shields.io/badge/-JavaScript-fff3b0?style=for-the-badge&logo=javascript&logoColor=000000"/>
-</p>
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=ffffff)
 
 ## 🌐 Conecte-se Comigo
 
 
-<p align="center">
-  <a href="mailto:brunalemes2503@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-ffc6c7?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://br.linkedin.com/in/bruna-lemes-4361791b8">
-    <img src="https://img.shields.io/badge/LinkedIn-c8e0ff?style=for-the-badge&logo=linkedin&logoColor=0077B5" />
-  </a>
-</p>
+<a href="mailto:brunalemes2503@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> 
+<a href="https://br.linkedin.com/in/bruna-lemes-4361791b8"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 
 ### 📈 Meu GitHub Stats
 
