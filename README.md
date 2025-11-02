@@ -25,7 +25,7 @@
 
 ---
 
-### Obrigado por visitar meu perfil! 🌟
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=comic+sans&weight=500&size=23&pause=1000&color=F7B9E7&background=FFFFFF00&repeat=false&width=445&lines=Obrigado+por+visitar+meu+perfil!+%F0%9F%96%A4)](https://git.io/typing-svg)
 
 <div style="width: 200px;">
   <a href="https://github.com/Metisza/github-readme-stats">
