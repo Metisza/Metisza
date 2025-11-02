@@ -1,7 +1,4 @@
-<h1 align="center">
-  🌸 Olá, eu sou a Bruna 👋🏻
-  <img src="https://raw.githubusercontent.com/Metisza/Metisza/main/imagens/bruna-chibi.png" width="80px" alt="Bruna acenando" style="vertical-align: middle; margin-left: 10px;" />
-</h1>
+
 
 Bem-vindo ao meu perfil do GitHub! Aqui você encontrará uma coleção dos meus projetos e contribuições para a comunidade de desenvolvimento. Sinta-se à vontade para explorar!
 
