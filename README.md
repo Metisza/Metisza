@@ -27,14 +27,8 @@
 
 ### 📈 Meu GitHub Stats
 
-![Metisza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Metisza&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Metisza&theme=github_dark)
 
----
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Metisza&layout=compact&theme=tokyonight)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=comic+sans&weight=500&size=23&pause=1000&color=F7B9E7&background=FFFFFF00&repeat=false&width=445&lines=Obrigado+por+visitar+meu+perfil!+%F0%9F%96%A4)](https://git.io/typing-svg)
-
-<div style="width: 200px;">
-  <a href="https://github.com/Metisza/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Metisza&langs_count=8&theme=dark&card_width=400" alt="Top Langs" />
-  </a>
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Metisza&layout=compact&theme=tokyonight&hide_border=true&border_radius=12)
